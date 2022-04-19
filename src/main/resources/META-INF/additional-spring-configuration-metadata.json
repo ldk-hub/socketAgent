@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "server.host",
+    "type": "java.lang.String",
+    "description": "A description for 'server.host'"
+  },
+  {
+    "name": "server.netty.boss-count",
+    "type": "java.lang.Integer",
+    "description": "A description for 'server.netty.boss-count'"
+  },
+  {
+    "name": "server.netty.keep-alive",
+    "type": "java.lang.Boolean",
+    "description": "A description for 'server.netty.keep-alive'"
+  },
+  {
+    "name": "server.netty.backlog",
+    "type": "java.lang.Integer",
+    "description": "A description for 'server.netty.backlog'"
+  },
+  {
+    "name": "server.netty.worker-count",
+    "type": "java.lang.Integer",
+    "description": "A description for 'server.netty.worker-count'"
+  }
+]}
